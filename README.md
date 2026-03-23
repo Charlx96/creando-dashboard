@@ -2,5 +2,5 @@
 Se crea un dashboar sencillo para ver la tendencias de algunos paises en cuanto sus recursos
 
 <p align="center">
-  <img src="dashboard.png" width="800" alt="Dashboard">
+  <img src="dashboard.png" width="800" alt="dashboard">
 </p>
